@@ -162,7 +162,7 @@
         function unlock() {
             const pass = document.getElementById('passInput').value;
             
-            if(pass === "13102022") {
+            if(pass === "131020777777777772") {
                 document.getElementById('login-screen').style.display = 'none';
                 document.getElementById('message-screen').style.display = 'block';
             } else {
